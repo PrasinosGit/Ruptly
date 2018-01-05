@@ -25,3 +25,44 @@ https://github.com/shadowsocks/shadow...
 https://www.youtube.com/redirect?redir_token=4GRY8hrIaniBxlELsUUz4ywsi-J8MTUxNTIyOTkyNUAxNTE1MTQzNTI1&event=video_description&v=xrbviAfagrU&q=https%3A%2F%2Fgithub.com%2Fshadowsocks%2Fshadowsocks-windows%2Freleases%2Fdownload%2F4.0.6%2FShadowsocks-4.0.6.zip
 
 https://github.com/shadowsocks/shadowsocks-windows/releases/download/4.0.6/Shadowsocks-4.0.6.zip
+
+
+学好英语
+allenking1028 edited this page a day ago · 4 revisions
+ Pages 2
+Home
+学好英语
+Clone this wiki locally
+
+https://github.com/allenking1028/ss.wiki.git
+
+1:sudo -i
+
+(链接SSH 最前面显示root@xxxx)
+
+2:wget -N --no-check-certificate https://raw.githubusercontent.com/FunctionClub/YankeeBBR/master/bbr.sh && bash bbr.sh install
+
+(蓝底 窗口 选择 NO)
+
+选择重启 Y
+
+3:sudo -i
+
+(链接SSH 最前面显示root@xxxx)
+
+4:bash bbr.sh start
+
+5:wget --no-check-certificate https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocksR.sh && chmod +x shadowsocksR.sh
+
+6:./shadowsocksR.sh
+
+输入shadowsocks 密码
+
+输入端口号
+
+其他一路回车
+
+软件下载地址： mac ShadowsocksX-NG-R8 https://github.com/qinyuhang/ShadowsocksX-NG-R/releases/download/1.4.3-R8-build2/ShadowsocksX-NG-R8.dmg
+
+PC Shadowsocks-4.0.6.zip https://github.com/shadowsocks/shadowsocks-windows/releases/download/4.0.6/Shadowsocks-4.0.6.zip
+© 2018 GitHub, Inc.
