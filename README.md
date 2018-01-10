@@ -30,3 +30,11 @@ Shi Liu
 2.修正UDP over UDP的加解密错误
 
 http://www.mediafire.com/file/3n4cum20pkbmibc/
+
+#。。。
+
+以上写法会让连接超时等待，如果你希望连接立即拒绝断开，那么把"1.0.0.1"改为"0.0.0.0"，把"::2"改为"::"即可
+37	
+38	如果你使用代理，那么在代理服务器及本地都最好设置一下
+39	原链接 ——https://breakwa11.blogspot.com/2016/12/baidu.html
+
